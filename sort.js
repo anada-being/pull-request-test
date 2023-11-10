@@ -1,7 +1,7 @@
 var sortNumber = function(nunmber){
-number,sort(function(a,b)){
-	if(a==b){
-		return0;
+number.sort(function(a,b)){
+	if(a == b){
+		return 0;
 	}
 ));
 };
