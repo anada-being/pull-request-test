@@ -5,7 +5,7 @@ number,sort(function(a,b)){
 	}
 ));
 };
-
+// コメントを追記
 var number = [19, 3, 81, 1, 24, 21];
 sortNumber(nunmber);
 console.log(number);
